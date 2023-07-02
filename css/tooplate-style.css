@@ -254,6 +254,7 @@ a:hover, a:active-card, a:focus {
   top: 0;
   -webkit-transition: all ease-in-out 0.4s;
   transition: all ease-in-out 0.4s;
+  height: 480px;
 }
 
 .service-thumb:hover {
@@ -281,7 +282,6 @@ a:hover, a:active-card, a:focus {
 .bg-grey .fa {
   color: #ffffff;
 }
-
 
 
 /*---------------------------------------
