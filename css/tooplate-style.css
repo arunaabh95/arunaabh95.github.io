@@ -99,7 +99,7 @@ p {
 .section-btn:focus,
 .section-btn:hover {
   background: #ffffff;
-  color: #000000;
+  color: #1D1D1D;
 }
 
 
@@ -402,7 +402,7 @@ a:hover, a:active-card, a:focus {
 -----------------------------------------*/
 
 footer {
-  background: #7682cc;
+  background: #1D1D1D;
   text-align: center;
   padding: 120px 0;
 }
@@ -432,7 +432,7 @@ footer p {
 .social-icon li a {
   background: #ffffff;
   border-radius: 100%;
-  color: #454545;
+  color: #1D1D1D;
   cursor: pointer;
   font-size: 20px;
   text-decoration: none;
